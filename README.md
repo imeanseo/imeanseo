@@ -1,12 +1,12 @@
-# 👋 Hi everyone, I'm **Go Minseo**
-
 <div align="center">
+
+# 👋 Hi everyone, I'm **Go Minseo**
 
 ### 🧠 AI Developer | NLP & Language & AI Specialist | Problem Solver
 
 *From teaching languages to building intelligent systems* ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90ee90&center=true&vCenter=true&width=600&lines=Designing+personalized+learning+solutions;Building+end-to-end+ML+systems;Creating+measurable+impact+through+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E9CDD0&center=true&vCenter=true&width=600&lines=Designing+personalized+learning+solutions;Building+end-to-end+ML+systems;Creating+measurable+impact+through+AI)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Workfolio-27d5ddaf3b4b80d2aae7d276a956485d)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](aileen02.ko@gmail.com)
@@ -29,23 +29,11 @@ I'm passionate about transforming insights into measurable impact through innova
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=imeanseo&show_icons=true&bg_color=00000000&text_color=a9a9a9&icon_color=90ee90&title_color=90ee90&hide_border=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeanseo&layout=compact&bg_color=00000000&text_color=a9a9a9&title_color=90ee90&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=imeanseo&theme=calm&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### 🐍 Programming Languages
 
-<div align="center">
+<div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,7 +43,7 @@ I'm passionate about transforming insights into measurable impact through innova
 
 ### 📊 ML & Data Science
 
-<div align="center">
+<div>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -66,7 +54,7 @@ I'm passionate about transforming insights into measurable impact through innova
 
 ### 🔄 MLOps & Infrastructure
 
-<div align="center">
+<div>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
@@ -78,7 +66,7 @@ I'm passionate about transforming insights into measurable impact through innova
 
 ### 🛠️ Tools & Platforms
 
-<div align="center">
+<div>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -185,6 +173,19 @@ I'm passionate about transforming insights into measurable impact through innova
 - 📊 Operating AI Article Study
 - 🏆 Competition-driven ML solutions
 
+</div>
+
+---
+
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=imeanseo&show_icons=true&bg_color=00000000&text_color=a9a9a9&icon_color=E9CDD0&title_color=E9CDD0&hide_border=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeanseo&layout=compact&bg_color=00000000&text_color=a9a9a9&title_color=E9CDD0&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=imeanseo&theme=calm-pink&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
