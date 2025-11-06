@@ -161,7 +161,7 @@ I'm passionate about transforming insights into measurable impact through innova
 |---|---|---|---|
 | 🏫 **Hankuk University of Foreign Studies** | 📖 English Linguistics & Language Technology (ELLT) (Double Degree)<br/>🤖 Double Major: AI Convergence | 2022.03 ~ PRESENT | **Focus:** NLP, Language Engineering, AI-driven Language Tech<br/> **Honors:** B.A. & B.L.S. |
 | 🚀 **Fastcampus AI Bootcamp** | Cohort 16 - MLOps & AI Engineering | 2025.07 ~ Present |  **Intensive Training:** Data preprocessing, model development, production deployment<br/> **Projects:** Game Recommendation System (MLOps), Apartment Price Prediction, Computer Vision, NLP, Kaggle Contest<br/>🛠️ **Skills:** Airflow · Docker · FastAPI · AWS · GitHub Actions |
-| 💻 **Codeit Coding Bootcamp** | Data Science Fundamentals for Python | Completed Basic Data Science curriculum﻿ | 2023.03.18 - 2023.06.18 | **Core:** NumPy · Pandas · Matplotlib<br/> **Skills:** Data manipulation, preprocessing, EDA<br/> **Environment:** Jupyter Notebook hands-on learning |
+| 💻 **Codeit Coding Bootcamp** | Data Science Fundamentals for Python | 2023.03.18 - 2023.06.18 | Completed Basic Data Science curriculum﻿ | **Core:** NumPy · Pandas · Matplotlib<br/> **Skills:** Data manipulation, preprocessing, EDA<br/> **Environment:** Jupyter Notebook hands-on learning | 
 
 ---
 
