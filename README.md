@@ -130,7 +130,7 @@ I'm passionate about transforming insights into measurable impact through innova
       <a href="https://github.com/imeanseo/cv_image_classification_project">
         <img src="https://github.com/user-attachments/assets/5a693d0b-1cbb-47ab-b8a3-df94bfaaef6c" alt="Document Classification" width="100%"/>
       </a>
-      <p><b>Period: Nov 2024 | Rank: 2nd (F1: 0.9499)</b></p>
+      <p><b>Period: Oct 2025 | Rank: 2nd (F1: 0.9499)</b></p>
       <p> Built ensemble CNN pipeline combining EfficientNet-B4, ConvNeXt, and ViT for 17-class document classification</p>
       <p> Applied CLAHE and Gaussian Blur preprocessing to handle damaged/low-quality document images</p>
       <p> Implemented two-stage training: global model + specialized sub-model for hospital-related classes</p>
