@@ -81,6 +81,9 @@ I'm passionate about transforming insights into measurable impact through innova
 ## 🚀 Featured Projects
 
 
+## 🚀 Featured Projects
+
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
@@ -123,34 +126,45 @@ I'm passionate about transforming insights into measurable impact through innova
   </tr>
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>🖼️ Computer Vision</h3>
-      <a href="https://github.com/imeanseo/cv-project">
-        <img src="이미지_URL" alt="CV Project" width="100%"/>
+      <h3>🖼️ Document Type Classification</h3>
+      <a href="https://github.com/imeanseo/cv_image_classification_project">
+        <img src="https://github.com/user-attachments/assets/5a693d0b-1cbb-47ab-b8a3-df94bfaaef6c" alt="Document Classification" width="100%"/>
       </a>
-      <p><b>Image Classification & Object Detection</b></p>
-      <p> Deep learning models for visual recognition tasks</p>
-      <p> CNN architectures and transfer learning optimization</p>
-      <p> Performance analysis and model evaluation</p>
+      <p><b>Period: Nov 2024 | Rank: 2nd (F1: 0.9499)</b></p>
+      <p> Built ensemble CNN pipeline combining EfficientNet-B4, ConvNeXt, and ViT for 17-class document classification</p>
+      <p> Applied CLAHE and Gaussian Blur preprocessing to handle damaged/low-quality document images</p>
+      <p> Implemented two-stage training: global model + specialized sub-model for hospital-related classes</p>
+      <p> Achieved 0.9499 F1-score through hard voting ensemble of 7 top-performing models</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Albumentations-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+        <img src="https://img.shields.io/badge/timm-150458?style=flat-square"/>
       </p>
     </td>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>💰 Dacon Competition</h3>
-      <a href="https://github.com/imeanseo/dacon-competition">
-        <img src="이미지_URL" alt="Dacon" width="100%"/>
+      <h3>📊 Trade Forecast Competition</h3>
+      <a href="https://github.com/imeanseo/dacon-trade-forecast">
+        <img src="https://github.com/imeanseo/dacon-trade-forecast/blob/main/outputs/figures/leaderboard.png" alt="Trade Forecast" width="100%"/>
       </a>
-      <p><b>Data Science Competition Solutions</b></p>
-      <p> Solved real-world data science challenges</p>
+      <p><b>Period: Nov 2025 | Rank: Top 15% (259th/1,688)</b></p>
+      <p> Developed lag-correlation based comovement detection system to identify leading-following item pairs</p>
+      <p> Engineered pairwise time-series features (lag-aligned leader signals, rolling statistics, interaction terms)</p>
+      <p> Built LightGBM regression pipeline with time-series CV for sparse monthly trade data (100 items, 44 months)</p>
+      <p> Achieved stable F1/NMAE balance (Score: 0.361) through feature-driven approach</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LightGBM-4CBB17?style=flat-square"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
       </p>
     </td>
   </tr>
 </table>
+
 
 
 ---
@@ -160,7 +174,7 @@ I'm passionate about transforming insights into measurable impact through innova
 | Institution | Program | Duration | Details |
 |---|---|---|---|
 | 🏫 **Hankuk University of Foreign Studies** | 📖 English Linguistics & Language Technology (ELLT) (Double Degree)<br/>🤖 Double Major: AI Convergence | 2022.03 ~ PRESENT | **Focus:** NLP, Language Engineering, AI-driven Language Tech<br/> **Honors:** B.A. & B.L.S. |
-| 🚀 **Fastcampus AI Bootcamp** | Cohort 16 - MLOps & AI Engineering | 2025.07 ~ Present |  **Intensive Training:** Data preprocessing, model development, production deployment<br/> **Projects:** Game Recommendation System (MLOps), Apartment Price Prediction, Computer Vision, NLP, Kaggle Contest<br/>🛠️ **Skills:** Airflow · Docker · FastAPI · AWS · GitHub Actions |
+| 🚀 **Fastcampus AI Bootcamp (1,440 HOURS)** | Cohort 16 - MLOps & AI Engineering | 2025.07 ~ Present |  **Intensive Training:** Data preprocessing, model development, production deployment<br/> **Projects:** Game Recommendation System (MLOps), Apartment Price Prediction, Computer Vision, NLP, Kaggle Contest<br/>🛠️ **Skills:** Airflow · Docker · FastAPI · AWS · GitHub Actions |
 | 💻 **Codeit Coding Bootcamp** | Data Science Fundamentals for Python | 2023.03.18 - 2023.06.18 | Completed Basic Data Science curriculum﻿ | **Core:** NumPy · Pandas · Matplotlib<br/> **Skills:** Data manipulation, preprocessing, EDA<br/> **Environment:** Jupyter Notebook hands-on learning | 
 
 ---
@@ -179,11 +193,6 @@ I'm passionate about transforming insights into measurable impact through innova
 
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=imeanseo&show_icons=true&bg_color=00000000&text_color=a9a9a9&icon_color=E9CDD0&title_color=E9CDD0&hide_border=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeanseo&layout=compact&bg_color=00000000&text_color=a9a9a9&title_color=E9CDD0&hide_border=true"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=imeanseo&theme=calm-pink&hide_border=true" alt="GitHub Streak"/>
 </div>
