@@ -80,12 +80,23 @@ I'm passionate about transforming insights into measurable impact through innova
 
 ## 🚀 Featured Projects
 
-
-## 🚀 Featured Projects
-
-
 <table align="center" width="100%">
   <tr>
+    <td width="50%" align="left" valign="top" style="padding: 20px;">
+      <h3>💬 Dialogue Summarization</h3>
+      <a> <img width="949" height="498" alt="image" src="https://github.com/user-attachments/assets/80ed1572-d5b9-4ac7-b82c-a85f4edc414b"/></a>
+      <p><b>Period: Dec 2025 | Rank: 🥈 2nd (Score: 47.7938)</b></p>
+      <p> Developed robust summarization model using mBART-50 with Curriculum Learning (English → AI Hub → Fine-tune)</p>
+      <p> Enhanced generalization using R-Drop (Regularized Dropout) and Label Smoothing</p>
+      <p> Achieved 2nd place through Recursive Ensemble and Weighted Centroid Voting strategies</p>
+      <p> Optimized ROUGE scores by applying length-aware heuristic scoring during inference</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+      </p>
+    </td>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
       <h3>🎮 Game Recommendation MLOps Pipeline</h3>
       <a href="https://github.com/imeanseo/mlops-cloud-project-mlops-3">
@@ -106,14 +117,17 @@ I'm passionate about transforming insights into measurable impact through innova
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
       <h3>🏢 Apartment Price Prediction</h3>
       <a href="https://github.com/imeanseo/apartment-price-prediction">
         <img src="https://github.com/user-attachments/assets/3d79fd53-7467-4fda-accc-878276b44de0" alt="Apartment Prediction" width="100%"/>
       </a>
-      <p><b>Period: Sep 2025 | Rank: 3rd</b></p>
+      <p><b>Period: Sep 2025 | Rank: 🥉 3rd (RMSE: 12,533)</b></p>
       <p> Engineered advanced features by fusing external data (transportation, school districts, interest rates)</p>
-      <p> Optimized LightGBM with Optuna hyperparameter tuning (RMSE: 12,533)</p>
+      <p> Optimized LightGBM with Optuna hyperparameter tuning </p>
       <p> Tracked experiments with Weights & Biases for reproducibility</p>
       <p> Established automated Feature Engineering & experiment management pipeline</p>
       <p>
@@ -123,14 +137,12 @@ I'm passionate about transforming insights into measurable impact through innova
         <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
       <h3>🖼️ Document Type Classification</h3>
       <a href="https://github.com/imeanseo/cv_image_classification_project">
         <img src="https://github.com/user-attachments/assets/5a693d0b-1cbb-47ab-b8a3-df94bfaaef6c" alt="Document Classification" width="100%"/>
       </a>
-      <p><b>Period: Oct 2025 | Rank: 2nd (F1: 0.9499)</b></p>
+      <p><b>Period: Oct 2025 | Rank: 🥈 2nd (F1: 0.9499)</b></p>
       <p> Built ensemble CNN pipeline combining EfficientNet-B4, ConvNeXt, and ViT for 17-class document classification</p>
       <p> Applied CLAHE and Gaussian Blur preprocessing to handle damaged/low-quality document images</p>
       <p> Implemented two-stage training: global model + specialized sub-model for hospital-related classes</p>
@@ -143,6 +155,9 @@ I'm passionate about transforming insights into measurable impact through innova
         <img src="https://img.shields.io/badge/timm-150458?style=flat-square"/>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
       <h3>📊 Trade Forecast Competition</h3>
       <a href="https://github.com/imeanseo/dacon-trade-forecast">
@@ -162,10 +177,9 @@ I'm passionate about transforming insights into measurable impact through innova
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
-
-
 
 ---
 
